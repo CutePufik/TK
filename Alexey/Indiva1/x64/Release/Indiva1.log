@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\TK\Alexey\Indiva1\main.cpp(12,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  D:\TK\Alexey\Indiva1\main.cpp(12,1):
+  "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  Создание кода
+  589 of 602 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Indiva1.vcxproj -> D:\TK\Alexey\Indiva1\x64\Release\Indiva1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
